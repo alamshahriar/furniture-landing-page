@@ -1,0 +1,13 @@
+.container_one {
+    max-width: 1236px;
+    margin: auto;
+}
+
+.container_two {
+    max-width: 1286px;
+    margin: auto;
+}
+
+.font-poppins {
+    font-family: "Poppins", sans-serif;
+}
